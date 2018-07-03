@@ -6,6 +6,7 @@ Das Nintendo Entertainment System (abgekürzt NES) ist eine 8-Bit-Videospielkons
 
 <h3>Inhalt:</h3>
 
+<li>
 R.B.I. Baseball (USA) (Unl).nes
 R.B.I. Baseball (USA).nes
 R.B.I. Baseball 2 (USA) (Unl).nes
@@ -598,3 +599,4 @@ Zoda's Revenge - StarTropics II (USA).nes
 Zombie Hunter (Japan).nes
 Zombie Nation (USA).nes
 Zunou Senkan Galg (Japan) (En) (Beta).nes
+</li>
